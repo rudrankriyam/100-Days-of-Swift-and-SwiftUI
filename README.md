@@ -1,5 +1,4 @@
 # 100 Days of Swift and SwiftUI
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/100-Days-of-Swift-and-SwiftUI&type=Date)](https://star-history.com/#rudrankriyam/100-Days-of-Swift-and-SwiftUI&Date)
 
 Welcome to my journey of 100 Days of Swift and SwiftUI, inspired by Paul Hudson's version!
 
@@ -34,3 +33,5 @@ I won the Apple WWDC Scholarship last year, and was part of the Google Summer of
 
 Twitter - [@rudrankriyam](https://twitter.com/rudrankriyam)  
 LinkedIn - [Rudrank Riyam](https://www.linkedin.com/in/rudrankriyam)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/100-Days-of-Swift-and-SwiftUI&type=Date)](https://star-history.com/#rudrankriyam/100-Days-of-Swift-and-SwiftUI&Date)

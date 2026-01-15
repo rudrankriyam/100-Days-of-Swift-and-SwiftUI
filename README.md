@@ -1,4 +1,6 @@
 # 100 Days of Swift and SwiftUI
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/100-Days-of-Swift-and-SwiftUI&type=Date)](https://star-history.com/#rudrankriyam/100-Days-of-Swift-and-SwiftUI&Date)
+
 Welcome to my journey of 100 Days of Swift and SwiftUI, inspired by Paul Hudson's version!
 
 ![](https://github.com/rudrankriyam/100-Days-of-Swift-and-SwiftUI/blob/master/100%20Days%20of%20Swift.png)
